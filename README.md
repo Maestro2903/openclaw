@@ -1,21 +1,9 @@
 # 🦞 OpenClaw — Personal AI Assistant
 
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg">
-        <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" alt="OpenClaw" width="500">
-    </picture>
-</p>
+> **This fork is tailored for maestro0329**
 
 <p align="center">
   <strong>EXFOLIATE! EXFOLIATE!</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/openclaw/openclaw/actions/workflows/ci.yml?branch=main"><img src="https://img.shields.io/github/actions/workflow/status/openclaw/openclaw/ci.yml?branch=main&style=for-the-badge" alt="CI status"></a>
-  <a href="https://github.com/openclaw/openclaw/releases"><img src="https://img.shields.io/github/v/release/openclaw/openclaw?include_prereleases&style=for-the-badge" alt="GitHub release"></a>
-  <a href="https://discord.gg/clawd"><img src="https://img.shields.io/discord/1456350064065904867?label=Discord&logo=discord&logoColor=white&color=5865F2&style=for-the-badge" alt="Discord"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
 </p>
 
 **OpenClaw** is a _personal AI assistant_ you run on your own devices.
@@ -270,34 +258,9 @@ Minimal `~/.openclaw/openclaw.json` (model + defaults):
 
 [Full configuration reference (all keys + examples).](https://docs.openclaw.ai/gateway/configuration)
 
-## Star History
+## License
 
-[![Star History Chart](https://api.star-history.com/svg?repos=openclaw/openclaw&type=date&legend=top-left)](https://www.star-history.com/#openclaw/openclaw&type=date&legend=top-left)
-
-## Molty
-
-OpenClaw was built for **Molty**, a space lobster AI assistant. 🦞
-by Peter Steinberger and the community.
-
-- [openclaw.ai](https://openclaw.ai)
-- [soul.md](https://soul.md)
-- [steipete.me](https://steipete.me)
-- [@openclaw](https://x.com/openclaw)
-
-## Community
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines, maintainers, and how to submit PRs.
-AI/vibe-coded PRs welcome! 🤖
-
-Special thanks to [Mario Zechner](https://mariozechner.at/) for his support and for
-[pi-mono](https://github.com/badlogic/pi-mono).
-Special thanks to Adam Doppelt for the lobster.bot domain.
-
-Thanks to all clawtributors:
-
-<!-- clawtributors:start -->
-
-[![steipete](https://avatars.githubusercontent.com/u/58493?v=4&s=48)](https://github.com/steipete) [![vincentkoc](https://avatars.githubusercontent.com/u/25068?v=4&s=48)](https://github.com/vincentkoc) [![Takhoffman](https://avatars.githubusercontent.com/u/781889?v=4&s=48)](https://github.com/Takhoffman) [![obviyus](https://avatars.githubusercontent.com/u/22031114?v=4&s=48)](https://github.com/obviyus) [![gumadeiras](https://avatars.githubusercontent.com/u/5599352?v=4&s=48)](https://github.com/gumadeiras) [![Mariano Belinky](https://avatars.githubusercontent.com/u/132747814?v=4&s=48)](https://github.com/mbelinky) [![vignesh07](https://avatars.githubusercontent.com/u/1436853?v=4&s=48)](https://github.com/vignesh07) [![joshavant](https://avatars.githubusercontent.com/u/830519?v=4&s=48)](https://github.com/joshavant) [![scoootscooob](https://avatars.githubusercontent.com/u/167050519?v=4&s=48)](https://github.com/scoootscooob) [![jacobtomlinson](https://avatars.githubusercontent.com/u/1610850?v=4&s=48)](https://github.com/jacobtomlinson)
+MIT License - See [LICENSE](LICENSE) for details.
 [![shakkernerd](https://avatars.githubusercontent.com/u/165377636?v=4&s=48)](https://github.com/shakkernerd) [![sebslight](https://avatars.githubusercontent.com/u/19554889?v=4&s=48)](https://github.com/sebslight) [![tyler6204](https://avatars.githubusercontent.com/u/64381258?v=4&s=48)](https://github.com/tyler6204) [![ngutman](https://avatars.githubusercontent.com/u/1540134?v=4&s=48)](https://github.com/ngutman) [![thewilloftheshadow](https://avatars.githubusercontent.com/u/35580099?v=4&s=48)](https://github.com/thewilloftheshadow) [![Sid-Qin](https://avatars.githubusercontent.com/u/201593046?v=4&s=48)](https://github.com/Sid-Qin) [![mcaxtr](https://avatars.githubusercontent.com/u/7562095?v=4&s=48)](https://github.com/mcaxtr) [![eleqtrizit](https://avatars.githubusercontent.com/u/31522568?v=4&s=48)](https://github.com/eleqtrizit) [![BunsDev](https://avatars.githubusercontent.com/u/68980965?v=4&s=48)](https://github.com/BunsDev) [![cpojer](https://avatars.githubusercontent.com/u/13352?v=4&s=48)](https://github.com/cpojer)
 [![Glucksberg](https://avatars.githubusercontent.com/u/80581902?v=4&s=48)](https://github.com/Glucksberg) [![osolmaz](https://avatars.githubusercontent.com/u/2453968?v=4&s=48)](https://github.com/osolmaz) [![bmendonca3](https://avatars.githubusercontent.com/u/208517100?v=4&s=48)](https://github.com/bmendonca3) [![jalehman](https://avatars.githubusercontent.com/u/550978?v=4&s=48)](https://github.com/jalehman) [![huntharo](https://avatars.githubusercontent.com/u/5617868?v=4&s=48)](https://github.com/huntharo) [![neeravmakwana](https://avatars.githubusercontent.com/u/261249544?v=4&s=48)](https://github.com/neeravmakwana) [![openperf](https://avatars.githubusercontent.com/u/80630709?v=4&s=48)](https://github.com/openperf) [![joshp123](https://avatars.githubusercontent.com/u/1497361?v=4&s=48)](https://github.com/joshp123) [![pgondhi987](https://avatars.githubusercontent.com/u/270720687?v=4&s=48)](https://github.com/pgondhi987) [![altaywtf](https://avatars.githubusercontent.com/u/9790196?v=4&s=48)](https://github.com/altaywtf)
 [![quotentiroler](https://avatars.githubusercontent.com/u/40643627?v=4&s=48)](https://github.com/quotentiroler) [![liuxiaopai-ai](https://avatars.githubusercontent.com/u/73659136?v=4&s=48)](https://github.com/liuxiaopai-ai) [![rodrigouroz](https://avatars.githubusercontent.com/u/384037?v=4&s=48)](https://github.com/rodrigouroz) [![frankekn](https://avatars.githubusercontent.com/u/4488090?v=4&s=48)](https://github.com/frankekn) [![drobison00](https://avatars.githubusercontent.com/u/5256797?v=4&s=48)](https://github.com/drobison00) [![zerone0x](https://avatars.githubusercontent.com/u/39543393?v=4&s=48)](https://github.com/zerone0x) [![onutc](https://avatars.githubusercontent.com/u/152018508?v=4&s=48)](https://github.com/onutc) [![ademczuk](https://avatars.githubusercontent.com/u/5212682?v=4&s=48)](https://github.com/ademczuk) [![ImLukeF](https://avatars.githubusercontent.com/u/92253590?v=4&s=48)](https://github.com/ImLukeF) [![hydro13](https://avatars.githubusercontent.com/u/6640526?v=4&s=48)](https://github.com/hydro13)
@@ -354,130 +317,4 @@ Thanks to all clawtributors:
 [![Drake Thomsen](https://avatars.githubusercontent.com/u/120344051?v=4&s=48)](https://github.com/ThomsenDrake) [![Hinata Kaga (samon)](https://avatars.githubusercontent.com/u/61647657?v=4&s=48)](https://github.com/kakuteki) [![andreabadesso](https://avatars.githubusercontent.com/u/3586068?v=4&s=48)](https://github.com/andreabadesso) [![chenxin-yan](https://avatars.githubusercontent.com/u/71162231?v=4&s=48)](https://github.com/chenxin-yan) [![cordx56](https://avatars.githubusercontent.com/u/23298744?v=4&s=48)](https://github.com/cordx56) [![dvrshil](https://avatars.githubusercontent.com/u/81693876?v=4&s=48)](https://github.com/dvrshil) [![MarvinCui](https://avatars.githubusercontent.com/u/130876763?v=4&s=48)](https://github.com/MarvinCui) [![Yeom-JinHo](https://avatars.githubusercontent.com/u/81306489?v=4&s=48)](https://github.com/Yeom-JinHo) [![Jeremy Mumford](https://avatars.githubusercontent.com/u/36290330?v=4&s=48)](https://github.com/17jmumford) [![Charlie Niño](https://avatars.githubusercontent.com/u/2346724?v=4&s=48)](https://github.com/KnHack)
 [![Sharoon Sharif](https://avatars.githubusercontent.com/u/150296639?v=4&s=48)](https://github.com/SharoonSharif) [![Oren](https://avatars.githubusercontent.com/u/168856?v=4&s=48)](https://github.com/orenyomtov) [![MattQ](https://avatars.githubusercontent.com/u/115874885?v=4&s=48)](https://github.com/mattqdev) [![Parker Todd Brooks](https://avatars.githubusercontent.com/u/585456?v=4&s=48)](https://github.com/parkertoddbrooks) [![Yufeng He](https://avatars.githubusercontent.com/u/40085740?v=4&s=48)](https://github.com/he-yufeng) [![Milofax](https://avatars.githubusercontent.com/u/2537423?v=4&s=48)](https://github.com/Milofax) [![Steve (OpenClaw)](https://avatars.githubusercontent.com/u/261149299?v=4&s=48)](https://github.com/stevebot-alive) [![zhoulf1006](https://avatars.githubusercontent.com/u/35586967?v=4&s=48)](https://github.com/zhoulf1006) [![Jonatan](https://avatars.githubusercontent.com/u/19454127?v=4&s=48)](https://github.com/jrrcdev) [![Sebastian B Otaegui](https://avatars.githubusercontent.com/u/91633?v=4&s=48)](https://github.com/feniix)
 [![Matthew](https://avatars.githubusercontent.com/u/76985631?v=4&s=48)](https://github.com/ZetiMente) [![ABFS Tech](https://avatars.githubusercontent.com/u/82096803?v=4&s=48)](https://github.com/QuantDeveloperUSA) [![alexstyl](https://avatars.githubusercontent.com/u/1665273?v=4&s=48)](https://github.com/alexstyl) [![Ethan Palm](https://avatars.githubusercontent.com/u/56270045?v=4&s=48)](https://github.com/ethanpalm) [![Qkal](https://avatars.githubusercontent.com/u/77361240?v=4&s=48)](https://github.com/qkal) [![cygaar](https://avatars.githubusercontent.com/u/97691933?v=4&s=48)](https://github.com/cygaar) [![Umut CAN](https://avatars.githubusercontent.com/u/78921017?v=4&s=48)](https://github.com/U-C4N) [![Jakob](https://avatars.githubusercontent.com/u/38699060?v=4&s=48)](https://github.com/jakobdylanc) [![antons](https://avatars.githubusercontent.com/u/129705?v=4&s=48)](https://github.com/antons) [![austinm911](https://avatars.githubusercontent.com/u/31991302?v=4&s=48)](https://github.com/austinm911)
-[![mahmoudashraf93](https://avatars.githubusercontent.com/u/9130129?v=4&s=48)](https://github.com/mahmoudashraf93) [![philipp-spiess](https://avatars.githubusercontent.com/u/458591?v=4&s=48)](https://github.com/philipp-spiess) [![pkrmf](https://avatars.githubusercontent.com/u/1714267?v=4&s=48)](https://github.com/pkrmf) [![joshrad-dev](https://avatars.githubusercontent.com/u/62785552?v=4&s=48)](https://github.com/joshrad-dev) [![factnest365-ops](https://avatars.githubusercontent.com/u/236534360?v=4&s=48)](https://github.com/factnest365-ops) [![yingchunbai](https://avatars.githubusercontent.com/u/33477283?v=4&s=48)](https://github.com/yingchunbai) [![AJ (@techfren)](https://avatars.githubusercontent.com/u/8023513?v=4&s=48)](https://github.com/aj47) [![Marchel Fahrezi](https://avatars.githubusercontent.com/u/53804949?v=4&s=48)](https://github.com/Alg0rix) [![futhgar](https://avatars.githubusercontent.com/u/51002668?v=4&s=48)](https://github.com/futhgar) [![Zhang](https://avatars.githubusercontent.com/u/56248212?v=4&s=48)](https://github.com/YonganZhang)
-[![Rémi](https://avatars.githubusercontent.com/u/1299873?v=4&s=48)](https://github.com/remusao) [![Dan Ballance](https://avatars.githubusercontent.com/u/13839912?v=4&s=48)](https://github.com/danballance) [![Eric Su](https://avatars.githubusercontent.com/u/60202455?v=4&s=48)](https://github.com/GHesericsu) [![Kimitaka Watanabe](https://avatars.githubusercontent.com/u/167225?v=4&s=48)](https://github.com/kimitaka) [![Justin Ling](https://avatars.githubusercontent.com/u/2521993?v=4&s=48)](https://github.com/itsjling) [![Raymond Berger](https://avatars.githubusercontent.com/u/921217?v=4&s=48)](https://github.com/RayBB) [![lutr0](https://avatars.githubusercontent.com/u/76906369?v=4&s=48)](https://github.com/lutr0) [![claude](https://avatars.githubusercontent.com/u/81847?v=4&s=48)](https://github.com/claude) [![AngryBird](https://avatars.githubusercontent.com/u/48046333?v=4&s=48)](https://github.com/angrybirddd) [![Fabian Williams](https://avatars.githubusercontent.com/u/92543063?v=4&s=48)](https://github.com/fabianwilliams)
-[![0x4C33](https://avatars.githubusercontent.com/u/60883781?v=4&s=48)](https://github.com/haoruilee) [![8BlT](https://avatars.githubusercontent.com/u/162764392?v=4&s=48)](https://github.com/8BlT) [![atalovesyou](https://avatars.githubusercontent.com/u/3534502?v=4&s=48)](https://github.com/atalovesyou) [![erikpr1994](https://avatars.githubusercontent.com/u/6299331?v=4&s=48)](https://github.com/erikpr1994) [![jonasjancarik](https://avatars.githubusercontent.com/u/2459191?v=4&s=48)](https://github.com/jonasjancarik) [![longmaba](https://avatars.githubusercontent.com/u/9361500?v=4&s=48)](https://github.com/longmaba) [![mitschabaude-bot](https://avatars.githubusercontent.com/u/247582884?v=4&s=48)](https://github.com/mitschabaude-bot) [![thesash](https://avatars.githubusercontent.com/u/1166151?v=4&s=48)](https://github.com/thesash) [![Max](https://avatars.githubusercontent.com/u/8418866?v=4&s=48)](https://github.com/rdev) [![easternbloc](https://avatars.githubusercontent.com/u/92585?v=4&s=48)](https://github.com/easternbloc)
-[![chrisrodz](https://avatars.githubusercontent.com/u/2967620?v=4&s=48)](https://github.com/chrisrodz) [![gabriel-trigo](https://avatars.githubusercontent.com/u/38991125?v=4&s=48)](https://github.com/gabriel-trigo) [![manmal](https://avatars.githubusercontent.com/u/142797?v=4&s=48)](https://github.com/manmal) [![neist](https://avatars.githubusercontent.com/u/1029724?v=4&s=48)](https://github.com/neist) [![wes-davis](https://avatars.githubusercontent.com/u/16506720?v=4&s=48)](https://github.com/wes-davis) [![manuelhettich](https://avatars.githubusercontent.com/u/17690367?v=4&s=48)](https://github.com/ManuelHettich) [![sktbrd](https://avatars.githubusercontent.com/u/116202536?v=4&s=48)](https://github.com/sktbrd) [![larlyssa](https://avatars.githubusercontent.com/u/13128869?v=4&s=48)](https://github.com/larlyssa) [![pcty-nextgen-service-account](https://avatars.githubusercontent.com/u/112553441?v=4&s=48)](https://github.com/pcty-nextgen-service-account) [![Syhids](https://avatars.githubusercontent.com/u/671202?v=4&s=48)](https://github.com/Syhids)
-[![tmchow](https://avatars.githubusercontent.com/u/517103?v=4&s=48)](https://github.com/tmchow) [![Marc Gratch](https://avatars.githubusercontent.com/u/2238658?v=4&s=48)](https://github.com/mgratch) [![xtao](https://avatars.githubusercontent.com/u/1050163?v=4&s=48)](https://github.com/xtao) [![JackyWay](https://avatars.githubusercontent.com/u/53031570?v=4&s=48)](https://github.com/JackyWay) [![Josh Phillips](https://avatars.githubusercontent.com/u/3744255?v=4&s=48)](https://github.com/j1philli) [![T5-AndyML](https://avatars.githubusercontent.com/u/22801233?v=4&s=48)](https://github.com/T5-AndyML) [![huohua-dev](https://avatars.githubusercontent.com/u/258873123?v=4&s=48)](https://github.com/huohua-dev) [![imfing](https://avatars.githubusercontent.com/u/5097752?v=4&s=48)](https://github.com/imfing) [![Randy Torres](https://avatars.githubusercontent.com/u/149904821?v=4&s=48)](https://github.com/RandyVentures) [![Marco Di Dionisio](https://avatars.githubusercontent.com/u/3519682?v=4&s=48)](https://github.com/marcodd23)
-[![iamadig](https://avatars.githubusercontent.com/u/102129234?v=4&s=48)](https://github.com/Iamadig) [![humanwritten](https://avatars.githubusercontent.com/u/206531610?v=4&s=48)](https://github.com/humanwritten) [![Rob Axelsen](https://avatars.githubusercontent.com/u/13132899?v=4&s=48)](https://github.com/robaxelsen) [![Pratham Dubey](https://avatars.githubusercontent.com/u/134331217?v=4&s=48)](https://github.com/prathamdby) [![0oAstro](https://avatars.githubusercontent.com/u/79555780?v=4&s=48)](https://github.com/0oAstro) [![aaronn](https://avatars.githubusercontent.com/u/1653630?v=4&s=48)](https://github.com/aaronn) [![Arturo](https://avatars.githubusercontent.com/u/34192856?v=4&s=48)](https://github.com/afern247) [![Asleep123](https://avatars.githubusercontent.com/u/122379135?v=4&s=48)](https://github.com/Asleep123) [![dantelex](https://avatars.githubusercontent.com/u/631543?v=4&s=48)](https://github.com/dantelex) [![fcatuhe](https://avatars.githubusercontent.com/u/17382215?v=4&s=48)](https://github.com/fcatuhe)
-[![gtsifrikas](https://avatars.githubusercontent.com/u/8904378?v=4&s=48)](https://github.com/gtsifrikas) [![hrdwdmrbl](https://avatars.githubusercontent.com/u/554881?v=4&s=48)](https://github.com/hrdwdmrbl) [![hugobarauna](https://avatars.githubusercontent.com/u/2719?v=4&s=48)](https://github.com/hugobarauna) [![jayhickey](https://avatars.githubusercontent.com/u/1676460?v=4&s=48)](https://github.com/jayhickey) [![jiulingyun](https://avatars.githubusercontent.com/u/126459548?v=4&s=48)](https://github.com/jiulingyun) [![Jonathan D. Rhyne (DJ-D)](https://avatars.githubusercontent.com/u/7828464?v=4&s=48)](https://github.com/jdrhyne) [![jverdi](https://avatars.githubusercontent.com/u/345050?v=4&s=48)](https://github.com/jverdi) [![kitze](https://avatars.githubusercontent.com/u/1160594?v=4&s=48)](https://github.com/kitze) [![loukotal](https://avatars.githubusercontent.com/u/18210858?v=4&s=48)](https://github.com/loukotal) [![minghinmatthewlam](https://avatars.githubusercontent.com/u/14224566?v=4&s=48)](https://github.com/minghinmatthewlam)
-[![MSch](https://avatars.githubusercontent.com/u/7475?v=4&s=48)](https://github.com/MSch) [![odrobnik](https://avatars.githubusercontent.com/u/333270?v=4&s=48)](https://github.com/odrobnik) [![oswalpalash](https://avatars.githubusercontent.com/u/6431196?v=4&s=48)](https://github.com/oswalpalash) [![ratulsarna](https://avatars.githubusercontent.com/u/105903728?v=4&s=48)](https://github.com/ratulsarna) [![reeltimeapps](https://avatars.githubusercontent.com/u/637338?v=4&s=48)](https://github.com/reeltimeapps) [![snopoke](https://avatars.githubusercontent.com/u/249606?v=4&s=48)](https://github.com/snopoke) [![sreekaransrinath](https://avatars.githubusercontent.com/u/50989977?v=4&s=48)](https://github.com/sreekaransrinath) [![timkrase](https://avatars.githubusercontent.com/u/38947626?v=4&s=48)](https://github.com/timkrase)
 
-<!-- clawtributors:end -->
-<!-- clawtributors:hidden:start
-default-avatar-cache: hidden from the rendered wall because these users still use GitHub's default avatar
-13otkmdr
-aaronveklabs
-adityashaw2
-ai-reviewer-qs
-alexyyyander
-alphonse-arianee
-amitbiswal007
-bbblending
-bbddbb1
-bitfoundry-ai
-bugkillerking
-carlulsoe
-charzhou
-cheeeee
-dalomeve
-danielz1z
-diaspar4u
-dirbalak
-djangonavarro220
-dobbylorenzbot
-drcrinkle
-drickon
-eddertalmor
-eengad
-efe-buken
-eric-fr4
-eronfan
-evandance
-extrasmall0
-ezhikkk
-fuller-stack-dev
-fwhite13
-gambletan
-gejifeng
-harrington-bot
-heimdallstrategy
-heyhudson
-hougangdev
-jamesgroat
-jamtujest
-jaymishra-source
-joe2643
-joetomasone
-jonathanworks
-jonisjongithub
-jscaldwell55
-julbarth
-junjunjunbong
-kirillshchetinin
-kyohwang
-lailoo
-latitudeki5223
-lawrence3699
-liaosvcaf
-livingghost
-luijoc
-lukeboyett
-lurebat
-mahanandhi
-maple778
-martingarramon
-matthew19990919
-moktamd
-moltbot886
-mujiannan
-mukhtharcm
-mylszd
-natedenh
-nicholascyh
-nickhood1984
-nico-hoff
-nikus-pan
-nonggialiang
-oliviareid-svg
-openclaw-bot
-pablohrcarvalho
-patrick-barletta
-pinghuachiu
-private-peter
-prospectore
-rafaelreis-r
-rexl2018
-rexlunae
-rhjoh
-ronak-guliani
-ryancontent
-ryanngit
-rybnikov
-sandpile
-sbking
-shivamraut101
-shuicici
-slats24
-slepybear
-sline
-socialnerd42069
-solodmd
-sudie-codes
-sumleo
-superman32432432
-ted-developer
-tempeste
-theonejvo
-tosh-hamburg
-uli-will-code
-w-sss
-whiskyboy
-wittam-01
-xieyongliang
-yassinebkr
-yuna78
-yuweuii
-yxjsxy
-zijiess
-clawtributors:hidden:end -->
